@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CommitReader</string>
+    <string name="author_name">Author:</string>
+    <string name="sha">SHA:</string>
+    <string name="message">Message:</string>
+    <string name="no_data">No data availabel</string>
+</resources>
